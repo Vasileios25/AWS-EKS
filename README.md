@@ -99,16 +99,11 @@ My aim is to demonstrate:
 ### Clone
 ```bash
 git clone https://your-repo-url.git
-cd LempStackVaultDocker
+cd AWS-EKS
 
    ```
 
-2. Create a `.env` file for environment variables (database credentials) if not using Vault yet.
 
-3. Build and start the Docker containers:
-   ```bash
-   docker-compose up --build
-   ```
 
 ### Executing program
 
